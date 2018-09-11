@@ -1,24 +1,24 @@
 # Site Settings
 title: لاگز | معرفی گروه های کاربری لینوکس
-email: youremail@xyz.com
+email: gshs99@gmail.com
 description: معرفی گروه های کاربری لینوکس در سطح کشور.
 #baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+url: "https://www.lugs.ir" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: lugs
-user_description: Some text about you.
+username: freetux
+user_description: حمید صیدی ،دوستدار گنو/لینوکس و نرم افزار آزاد.
 disqus_username: disqus_username
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: herotux
+# facebook_username: facebook_username
+twitter_username: freetux
+instagram_username: freetux
+# linkedin_username: linkedin_username
+# medium_username: medium_username
 
 # Build settings
 markdown: kramdown

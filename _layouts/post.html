@@ -22,8 +22,56 @@
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>
 
                 {% if page.image %}
-                    <img src="{{ page.image }}" alt="Imagem de capa" class="post-cover">
+                    <img src="{{ page.image }}" alt="لوگو لاگ" class="post-cover">
                 {% endif %}
+                {% if page.status and page.status == true %}
+                  <p class="text-center">وضعیت: فعال <i class="fab fa-linux" style="color: green"></i></p>
+                {% elsif page.status and page.status == false %}
+                  <p class="text-center">وضعیت: فعال <i class="fab fa-linux" style="color: green"></i></p>
+                {% endif %}
+
+                {% if page.site %}
+                <p class="text-center"><a href="{{ page.site }}"> <i class="fa fa-link"></i> وبسایت لاگ</a></p>
+                
+                {% endif %}
+
+                {% if page.evand %}
+                <p class="text-center"><a href="{{ page.evand }}"><i class="fa fa-calendar-alt"> </i> رویداد‌های لاگ  </a></p>
+                {% endif %}
+
+                <h3 class="text-center">
+                    {% if page.github_username %}
+                    <a href="https://github.com/{{ page.github_username }}" title="Github">
+                        <i class="fab fa-github"></i>
+                    </a>
+                    {% endif %}
+                    {% if page.facebook_username %}
+                    <a href="https://www.facebook.com/{{ page.facebook_username }}" title="Facebook">
+                        <i class="fab fa-facebook"></i>
+                    </a>
+                    {% endif %}
+                    {% if page.twitter_username %}
+                    <a href="https://twitter.com/{{ page.twitter_username }}" title="Twitter">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                    {% endif %}
+                    {% if page.medium_username %}
+                    <a href="https://medium.com/@{{ page.medium_username }}" title="Twitter">
+                        <i class="fab fa-medium"></i>
+                    </a>
+                    {% endif %}
+                    {% if page.instagram_username %}
+                    <a href="https://www.instagram.com/{{ page.instagram_username }}" title="Instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                    {% endif %}
+                    {% if page.telegram %}
+                    <a href="https://t.me/{{ page.telegram }}" title="تلگرام">
+                        <i class="fab fa-telegram"></i>
+                    </a>
+                    {% endif %}
+                </h3>
+
 
                 {{ content }}
             </article>
@@ -36,10 +84,7 @@
                     <span class="remaining" style="width:100%;"></span>
                 </div>
             </div>
-
             {% include share.html %}
-            {% include author.html %}
-            {% include comments.html %}
             {% include footer.html %}
         </section>
     </body>

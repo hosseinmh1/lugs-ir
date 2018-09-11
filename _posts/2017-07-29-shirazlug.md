@@ -3,6 +3,12 @@ layout: post
 title: "گروه کاربران لینوکس شیراز"
 date: 2017-07-29 13:24:49
 image: '/assets/img/shirazlug_logo.svg'
+status: true
+github_username: "shirazlug"
+site: "https://shirazlug.ir"
+facebook_username: "shirazlug.ir"
+instagram_username: "shirazlug.ir"
+telegram: "shirazlug"
 description: گروه کاربران گنو/لینوکس شیراز یا «شیرازلاگ» گروهی مستقل، مردم‌نهاد، ناسودبر و عمومی از کاربران رایانه علاقه‌مند به گنو/لینوکس ساکن شیراز می‌باشد.
 category: 'لاگ‌'
 tags:
