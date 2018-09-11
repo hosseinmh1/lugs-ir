@@ -9,6 +9,7 @@ site: "https://shirazlug.ir"
 facebook_username: "shirazlug.ir"
 instagram_username: "shirazlug.ir"
 telegram: "shirazlug"
+location: "https://www.openstreetmap.org/export/embed.html?bbox=52.52060025930405%2C29.630067105274705%2C52.523593604564674%2C29.631512607278584&layer=mapnik&marker=29.630789858869484%2C52.52209693193436"
 description: گروه کاربران گنو/لینوکس شیراز یا «شیرازلاگ» گروهی مستقل، مردم‌نهاد، ناسودبر و عمومی از کاربران رایانه علاقه‌مند به گنو/لینوکس ساکن شیراز می‌باشد.
 category: 'لاگ‌'
 tags:

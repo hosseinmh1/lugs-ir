@@ -32,11 +32,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: خانه
     url: /
-  - title: About
+  - title: درباره
     url: /about/
-  - title: Contact
+  - title: تماس با لاگز
     url: /contact/
 
 # Exclude my node related stuff

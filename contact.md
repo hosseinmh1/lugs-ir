@@ -14,7 +14,7 @@ permalink: /contact/
 
 <div class="container">
 
-  <h2>Talk to me</h2>
+  <h2>با ما درمیان بگذارید ...</h2>
 
   <div id="form" class="contact-form">
     <form accept-charset="UTF-8" method="POST" action="https://formspree.io/{{ site.email }}" v-on:submit.prevent="validateBeforeSubmit" ref="contact">
@@ -23,19 +23,19 @@ permalink: /contact/
         <input type="hidden" name="_next" value="{{ site.url }}/contact/message-sent/" />
         <input type="hidden" name="_language" value="en" />
 
-        <input type="text" name="name" placeholder="Your name" v-validate="'required'"
+        <input type="text" name="name" placeholder="نام شما" v-validate="'required'"
                :class="{ 'has-error': errors.has('name') }">
         <span v-if="errors.has('name')" v-cloak>${ errors.first('name') }</span>
 
-        <input type="text" name="email" placeholder="Your e-mail" v-validate="'required|email'"
+        <input type="text" name="email" placeholder="ایمیل شما" v-validate="'required|email'"
                :class="{ 'has-error': errors.has('email') }">
         <span v-if="errors.has('email')" v-cloak>${ errors.first('email') }</span>
 
-        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="Your message" v-validate="'required'"
+        <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="پیام" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
 
-        <button type="submit">Send</button>
+        <button type="submit">ارسال</button>
       </fieldset>
     </form>
   </div>

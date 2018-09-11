@@ -74,6 +74,13 @@
 
 
                 {{ content }}
+
+                {% if page.location %}
+                <p class="text-center" style="color: red">محل برگزاری جلسات</p>
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                        <iframe width="400" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ page.location }}" style="border: 1px solid black"></iframe>
+                    </div>
+                {% endif %}
             </article>
 
             <div class="progress-bar" data-minutes="{{ totalMinutes }}">
