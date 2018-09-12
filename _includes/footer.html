@@ -1,5 +1,5 @@
 <footer>
-    <p>
+    <p class="text-center">
       {% if site.github_username %}
       <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
         <svg><use xlink:href="#icon-github"></use></svg>
@@ -37,7 +37,7 @@
         {% endfor %}
         <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">خوراک</a></li>
     </ul>
-    <p><span>lugs.ir</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="http://www.freetux.ir" target="_blank" class="creator">Hamid saydy</a></p>
+    <p class="text-center"><span>lugs.ir</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="http://www.freetux.ir" target="_blank" class="creator">Hamid saydy</a></p>
 </footer>
 <script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
 {% include stats.html %}
