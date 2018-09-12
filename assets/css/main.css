@@ -83,7 +83,8 @@ audio:not([controls]){
     height:0
 }
 img{
-    border-style:none
+    border-style:none;
+    background-color: white
 }
 svg:not(:root){
     overflow:hidden
@@ -825,7 +826,7 @@ main{
 }
 @media only screen and (min-width:37.5rem){
     .post-content img.post-cover{
-        margin-bottom:1.813rem
+        margin-bottom:1.813rem;
     }
 }
 .post-content img + em{
