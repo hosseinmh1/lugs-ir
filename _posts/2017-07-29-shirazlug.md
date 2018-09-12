@@ -3,7 +3,7 @@ layout: post
 title: "گروه کاربران لینوکس شیراز"
 date: 2017-07-29 13:24:49
 image: '/assets/img/shirazlug_logo.svg'
-status: true
+active: "yes"
 github_username: "shirazlug"
 site: "https://shirazlug.ir"
 facebook_username: "shirazlug.ir"

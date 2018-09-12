@@ -32,7 +32,9 @@ layout: compress
                                                     <img src="{{ post.image }}" data-url="{{ post.image }}">
                                                 </a>
                                             </div>
-                                        {% endif %}
+                                            {% else %}
+                                                <img src="/assets/img/linux-logo.png" alt="لوگو لاگ" class="post-cover"> 
+                                            {% endif %}
                                         <div class="box-info">
                                             <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
                                             <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">

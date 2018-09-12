@@ -3,7 +3,7 @@ layout: post
 title: "گروه کاربران لینوکس مشهد"
 description: مشهدلاگ یا گروه کاربران لینوکس مشهد یک گروه مردم‌نهاد و همچنین ناسودبر است که در زمینه‌ی گنو/لینوکس و نرم‌افزار آزاد فعالیت می‌کند.
 category: 'لاگ'
-status: true
+active: "yes"
 github_username: "mashhadlug"
 telegram: "joinchat/A_S41D0H2H_lRijRRQwltw"
 site: "http://mashhadlug.org"

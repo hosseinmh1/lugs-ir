@@ -3,7 +3,7 @@ layout: post
 title: "گروه کاربران لینوکس قزوین"
 description:  قزوین‌ لاگ عنوان گروهی متشکل از کاربران مستقل و علاقمند به گنو/لینوکس است که در قزوین به فعالیت در حوزه ی متن باز می‌پردازند
 category: 'لاگ'
-status: true
+active: "yes"
 github_username: "qazvinlug"
 telegram: "qazvinlug"
 site: "http://www.qazvinlug.ir/"

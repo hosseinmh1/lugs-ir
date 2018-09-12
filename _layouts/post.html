@@ -23,11 +23,13 @@
 
                 {% if page.image %}
                     <img src="{{ page.image }}" alt="لوگو لاگ" class="post-cover">
+                {% else %}
+                    <img src="/assets/img/linux-logo.png" alt="لوگو لاگ" class="post-cover"> 
                 {% endif %}
-                {% if page.status and page.status == true %}
+                {% if page.active and page.active == "yes" %}
                   <p class="text-center">وضعیت: فعال <i class="fab fa-linux" style="color: green"></i></p>
-                {% elsif page.status and page.status == false %}
-                  <p class="text-center">وضعیت: فعال <i class="fab fa-linux" style="color: green"></i></p>
+                {% elsif page.active and page.active == "no" %}
+                  <p class="text-center">وضعیت: غیرفعال <i class="fab fa-linux" style="color: red"></i></p>
                 {% endif %}
 
                 {% if page.site %}

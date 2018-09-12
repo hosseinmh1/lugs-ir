@@ -3,7 +3,7 @@ layout: post
 title: "گروه کاربران لینوکس کرمان"
 description:  کرمان‌لاگ گروهی غیرانتفاعی است که هدفش ترویج استفاده از نرم‌افزارهای آزاد می‌باشد 
 category: 'لاگ'
-status: true
+active: "yes"
 github_username: "KermanLUG"
 telegram: "KermanLinuxUsersGroup"
 site: "http://www.klug.ir/"
