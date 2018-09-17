@@ -2,7 +2,7 @@
 layout: page
 permalink: /draw-neighbourhood/
 title: "نحوه مرزبندی محلات در osm"
-description: مرزبندی محلات و نکاتی که باید به آن تو.جه کنیم .
+description: مرزبندی محلات و نکاتی که باید به آن توجه کنیم .
 category: 'learnosm'
 aparatid: '6r97R'
 tags:
