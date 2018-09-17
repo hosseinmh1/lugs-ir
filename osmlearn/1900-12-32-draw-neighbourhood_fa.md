@@ -4,7 +4,7 @@ permalink: /draw-neighbourhood/
 title: "نحوه مرزبندی محلات در osm"
 description: مرزبندی محلات و نکاتی که باید به آن تو.جه کنیم .
 category: 'learnosm'
-aparatid: 6r97R
+aparatid: '6r97R'
 tags:
 - osm
 - learnosm
@@ -81,7 +81,12 @@ image: "/assets/img/osmedit.png"
 
 خسته نباشید شما یک محله را به osm اضافه کرده اید
 
-<p class="text-center">==============================================</p>
+<p class="text-center">==============================================
+</p>
+
+ویدیو آموزشی:
+
+{% include aparat.html id=page.aparatid %}
 
 ### توجه کنید که:
 
@@ -89,9 +94,3 @@ image: "/assets/img/osmedit.png"
 * خطوط را به راه ها و سایر اجزاء نقشه متصل نکنید
 * خواهشمندم خلاقیت به خرج ندهید و مطابق استاندارد نقشه را رسم کنید 
 * از وارد کردن اطلاعات فرضی خودداری کنید حتما به استناد اطلاع قبلی یا منبع معتبر ویرایش کنید 
-
-
-
-ویدیو آموزشی:
-
-{% include aparat.html id=page.aparatid %}
