@@ -77,7 +77,7 @@ image: "/assets/img/osmedit.png"
 ۷- از قسمت تگ ها تگ place=neighbourhood را به ریلیشن بیفزایید
 ۸-همچنین تگ admin-level=11 را وارد نمایید
 
-![تصویر ۷](rc="/assets/img/osmp0i6.png)
+![تصویر ۷](/assets/img/osmp0i6.png)
 
 خسته نباشید شما یک محله را به osm اضافه کرده اید
 
