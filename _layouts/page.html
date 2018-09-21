@@ -10,5 +10,6 @@ layout: default
 
 </div>
 
-
+{% if post.category == "learnosm" %}
  {% include osm-link.html %}
+{% endif %}
