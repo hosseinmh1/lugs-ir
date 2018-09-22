@@ -7,12 +7,6 @@
         {% endfor %}
 
 
-{% if page.category == "learnosm" %}
- {% for link in site.osm-links %}
- <li><a href={{link.url}}>{{link.title}}</a></li>
-{% endfor %}
-{% endif %}
-
         <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">خوراک</a></li>
       </ul>
     </nav>
