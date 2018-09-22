@@ -3,7 +3,7 @@ title: لاگز | معرفی گروه های کاربری لینوکس
 email: gshs99@gmail.com
 description: معرفی گروه های کاربری لینوکس در سطح کشور.
 #baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.lugs.ir" # the base hostname & protocol for your site
+url: "http://www.lugs.ir" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
