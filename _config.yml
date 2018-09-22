@@ -71,11 +71,11 @@ osm-links:
   - title: "رسم نقشه از راه دور"
     url: /remote-mapping/
   - title: "استفاده از داده‌های OSM در QGIS
-     url: /osm-qgis/"
+    url: /osm-qgis/"
   - title: "کجا راهنمایی و کمک بیشتری دریافت می‌کنم؟"
-     url: /moving-forward/
+    url: /moving-forward/
   - title:"راهنمای رسم محلات در osm"
-     url: /neighbourhood/
+    url: /neighbourhood/
   - title: "ثبت و ریلیشن بندی دوربین کنترل سرعت"
     url: /osm-speed-camera/
   - title: "تگ های پرکاربرد"
