@@ -42,8 +42,6 @@ links:
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
 
-<div class="details" itemscope itemtype="http://schema.org/Person">
-
 
 osm-links:
   - title: "OpenStreetMap چیست؟"
