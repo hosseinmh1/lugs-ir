@@ -10,6 +10,61 @@
 <body>
 
     <div id="wrapper">
+         
+<!-- SideNav slide-out button -->
+<a href="#" data-activates="slide-out" class="btn btn-primary p-3 button-collapse"><i class="fa fa-bars"></i></a>
+
+<!-- Sidebar navigation -->
+<div id="slide-out" class="side-nav fixed">
+  <ul class="custom-scrollbar">
+      <!-- Logo -->
+      <li>
+          <div class="logo-wrapper waves-light">
+              <a href="#"><img src="https://mdbootstrap.com/img/logo/mdb-transparent.png" class="img-fluid flex-center"></a>
+          </div>
+      </li>
+      <!--/. Logo -->
+      <!--Social-->
+      <li>
+          <ul class="social">
+              <li><a href="#" class="icons-sm fb-ic"><i class="fa fa-facebook"> </i></a></li>
+              <li><a href="#" class="icons-sm pin-ic"><i class="fa fa-pinterest"> </i></a></li>
+              <li><a href="#" class="icons-sm gplus-ic"><i class="fa fa-google-plus"> </i></a></li>
+              <li><a href="#" class="icons-sm tw-ic"><i class="fa fa-twitter"> </i></a></li>
+          </ul>
+      </li>
+      <!--/Social-->
+      <!--Search Form-->
+      <li>
+          <form class="search-form" role="search">
+              <div class="form-group md-form mt-0 pt-1 waves-light">
+                  <input type="text" class="form-control" placeholder="Search">
+              </div>
+          </form>
+      </li>
+      <!--/.Search Form-->
+      <!-- Side navigation links -->
+      
+                  <div class="collapsible-body">
+                      <ul>
+                        
+      <!--/. Side navigation links -->
+{% for link in site.osm-links %}
+ <li><a href={{link.url}}>{{link.title}}</a></li>
+{% endfor %}
+{% endif %}
+  </ul>
+  <div class="sidenav-bg rgba-blue-strong"></div>
+</div>
+<!--/. Sidebar navigation -->
+
+
+
+
+
+
+
+
 
 
         <!-- Sidebar -->
