@@ -77,6 +77,8 @@ osm-links:
   - title: "راهنمای رسم محلات در osm"
     url: /draw-neighbourhood/
   - title: "ثبت و ریلیشن بندی دوربین کنترل سرعت"
+  - title: "آموزش تغییر لایه ها و داده های نقشه osm  در ویرایشگر id"
+    url: /osm-layers/
     url: /osm-speed-camera/
   - title: "تگ های پرکاربرد"
     url: /osm-tags/
