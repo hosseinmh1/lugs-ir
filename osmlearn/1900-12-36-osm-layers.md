@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /osm-layers/
-title: "آموزش تغییر لایه ها و داده های نقشه osm  در ویرایشگر id
+title: "آموزش تغییر لایه ها و داده های نقشه osm  در ویرایشگر id"
 description: آموزش تغییر لایه ها و داده های نقشه osm  در ویرایشگر id
 category: 'learnosm'
 tags:

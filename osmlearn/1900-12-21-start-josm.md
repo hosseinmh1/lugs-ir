@@ -10,10 +10,8 @@ tags:
 ---
 
 <h1>شروع به کار با JOSM</h1>
-<blockquote>
-<p>این راهنما می‌توان را به صورت <a href="/hotosm/learnosm/blob/gh-pages/files/josm_start-josm_fa.odt">josm_start-josm_fa.odt</a> و یا <a href="/hotosm/learnosm/blob/gh-pages/files/josm_start-josm_fa.pdf">josm_start-josm_fa.pdf</a> دانلود کرد.<br>
-تاریخ بازبینی ۱۳۹۴/۰۴/۳۱</p>
-</blockquote>
+
+
 <p>روش دانلود و نصب JOSM، ویرایشگر جاوای OpenStreetMap، تغییر برخی تنظیمات آن و باز کردن یک نقشه نمونه و
 آموزش برخی کارکردهای اولیه نرم‌افزار. به یاد دارید که در
 فصل مقدمه از شما خواستیم تا نقشه شهر یا روستای خود را
