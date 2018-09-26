@@ -1,11 +1,29 @@
+
+@font-face {
+    font-family: sahel;
+    font-weight: regular;
+    src: url('../../assets/fonts/Sahel-FD.woff') format("woff");
+  }
+  @font-face {
+    font-family: sahel;
+    font-weight: bold;
+    src: url('../../assets/fonts/Sahel-Bold-FD.woff') format("woff");
+  }
+  @font-face {
+    font-family: titr;
+    font-weight: regular;
+    src: url('../../assets/fonts/BTitr.woff') format("woff");
+  }
+
 html{
-    font-family:sans-serif;
+    font-family:sahel;
     line-height:1.15;
     -ms-text-size-adjust:100%;
     -webkit-text-size-adjust:100%
 }
 body{
-    margin:0
+    margin:0;
+    font-family:sahel;
 }
 article,aside,footer,header,nav,section{
     display:block
@@ -14,6 +32,7 @@ h1{
     font-size:2em;
     margin:.67em 0;
     direction: rtl;
+    font-family: titr, sahel;
 }
 figcaption,figure,main{
     display:block
@@ -171,7 +190,7 @@ a{
     direction: rtl;
 }
 h1,h2,h3,h4{
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:700;
     font-style:normal;
     direction: rtl;
@@ -323,7 +342,7 @@ aside.open{
 }
 aside h2{
     margin:0 1.25rem 0;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:400;
     font-style:normal;
     font-size:1.125rem;
@@ -354,7 +373,7 @@ aside nav li a{
     display:block;
     padding:.938rem 1.25rem;
     text-decoration:none;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:300;
     font-style:normal;
     color:#141414;
@@ -394,7 +413,7 @@ aside nav li a:hover{
     width:100%;
     height:2.5rem;
     line-height:1.875rem;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:300;
     font-style:normal;
     font-size:1.25rem;
@@ -420,7 +439,7 @@ aside nav li a:hover{
 .search-form .search-list{
     position:absolute;
     width:100%;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:300;
     font-style:normal;
     display:none;
@@ -533,6 +552,7 @@ html,body{
 .bar-header .logo a{
     color:#fff;
     text-decoration:none;
+    font-family: titr;
     font-size:2rem
 }
 .bar-header .icon-menu{
@@ -598,7 +618,7 @@ body.main-page .bar-header{
     opacity:1
 }
 main{
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:400;
     font-style:normal;
     -webkit-font-smoothing:antialiased;
@@ -726,7 +746,7 @@ main{
 .box-item .box-body h2{
     margin:.625rem 0;
     font-size:1.5rem;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:800;
     font-style:normal;
     color:#fff;
@@ -736,7 +756,8 @@ main{
     margin:0 0 1.875rem;
     color:#c2c2c2;
     font-size:1.063rem;
-    line-height:1.625rem
+    line-height:1.625rem;
+    font-family: sahel;
 }
 .box-item .box-body .tags a{
     height:1.875rem;
@@ -833,7 +854,7 @@ main{
     display:block;
     color:#a9a9a9;
     text-align:center;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:300;
     font-style:normal
 }
@@ -846,7 +867,7 @@ main{
     margin-left:auto;
     padding-left:0;
     padding-right:0;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:400;
     font-style:normal;
     font-size:1.125rem;
@@ -868,6 +889,7 @@ main{
     }
 }
 .post-content h1.post-title{
+    font-family: titr, sahel;
     margin:0 auto;
     line-height:2.5rem;
 }
@@ -879,6 +901,7 @@ main{
 }
 .post-content p.subtitle{
     color:#a9a9a9;
+    font-family: sahel;
     font-size:1.125rem;
     margin:0 auto .625rem;
     line-height:1.875rem;
@@ -890,7 +913,6 @@ main{
     }
 }
 .post-content p.post-info{
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
     font-weight:300;
     font-style:normal;
     font-size:.813rem;
@@ -938,7 +960,7 @@ main{
     width:100%
 }
 .post-content h1,.post-content h2,.post-content h3,.post-content h4,.post-content h5,.post-content h6{
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:700;
     font-style:normal
 }
@@ -1110,7 +1132,7 @@ main{
     margin-left:auto;
     padding-left:0;
     padding-right:0;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:400;
     font-style:normal;
     font-size:1.125rem;
@@ -1149,7 +1171,7 @@ main{
     background-color:#141414
 }
 .post-content .tag-title{
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:300;
     font-style:normal;
     font-size:2.375rem;
@@ -1333,7 +1355,7 @@ pre span{
     color:#a6e22e
 }
 .contact-form{
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:700;
     font-style:normal;
     padding:.625rem;
@@ -1443,7 +1465,7 @@ pre span{
 .author .def{
     color:#808080;
     font-size:1.125rem;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:300;
     font-style:normal;
     margin:.625rem;
@@ -1457,7 +1479,7 @@ pre span{
     margin:0;
 }
 .author .name a{
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:700;
     font-style:normal;
     text-decoration:none;
@@ -1473,7 +1495,7 @@ pre span{
     }
 }
 .author .desc{
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:300;
     font-style:normal;
     margin:.625rem;
@@ -1519,7 +1541,7 @@ footer{
     padding:1.25rem 1.563rem;
     margin-top:3.125rem;
     margin-bottom:2.5rem;
-    font-family:'Titillium Web','Helvetica Neue',Helvetica,sans-serif;
+    font-family: sahel;
     font-weight:300;
     font-style:normal;
 }
