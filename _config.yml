@@ -3,7 +3,7 @@ title: لاگز | معرفی گروه های کاربری لینوکس
 email: gshs99@gmail.com
 description: معرفی گروه های کاربری لینوکس در سطح کشور.
 #baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.lugs.ir" # the base hostname & protocol for your site
+url: "http://www.lugs.ir" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
@@ -41,3 +41,42 @@ links:
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+
+
+osm-links:
+  - title: "OpenStreetMap چیست؟"
+    url: /introduction/
+  - title: "چطور نقشه کشی رو شروع کنم؟"
+    url: /beginner/
+  - title: "شروع‌کار osm"
+    url: /start-osm/
+  - title: "داده های openstreetmap"
+    url: /osm-data/
+  - title: "کپی - چسباندن"
+    url: /copy-past/
+  - title: "JOSM- ویرایش با جزئیات"
+    url: /josm/
+  - title: "JOSM- شروع کار با"
+    url: /start-josm/
+  - title: "فرآیند ویرایش در JOSM"
+    url: /josm-more/
+  - title: "JOSM- ابزارهای ویرایش با JOSM"
+    url: /josm-tools/
+  - title: "نقشه‌کشی انسان‌دوستانه"
+    url: /humanitarian/
+  - title: "اصلاح اشکالات مربوط به مسیریابی نقشه osm"
+    url: /osm-distance/
+  - title: "نقشه‌کشی با گوشی هوشمند، دستگاه GPS و یا کاغذ"
+    url: /mobile_mapping/
+  - title: "رسم نقشه از راه دور"
+    url: /remote-mapping/
+  - title: "استفاده از داده‌های OSM در QGIS
+    url: /osm-qgis/"
+  - title: "کجا راهنمایی و کمک بیشتری دریافت می‌کنم؟"
+    url: /moving-forward/
+  - title: "راهنمای رسم محلات در osm"
+    url: /draw-neighbourhood/
+  - title: "ثبت و ریلیشن بندی دوربین کنترل سرعت"
+    url: /osm-speed-camera/
+  - title: "تگ های پرکاربرد"
+    url: /osm-tags/
