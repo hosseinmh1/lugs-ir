@@ -53,13 +53,13 @@ JOSM را راه‌اندازی کنید و فایل را باز کنید. چی�
 کلیک بر روی هر خط، بیش از یک خط را انتخاب کنید. وقتی هردو خط را انتخاب کردید،
 Combine Way را از منوی Tools انتخاب کنید.</p>
 <p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/combine-way.png"><img src="/assets/img/combine-way.png" alt="Combine way" style="max-width:100%;"></a></p>
-<pre><code>اگر دو خط را که دارای جهت‌های متفاوتی هستند را انتخاب کنید، این
+ اگر دو خط را که دارای جهت‌های متفاوتی هستند را انتخاب کنید، این
 هشدار را خواهید دید:
-</code></pre>
+ 
 <p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/reverse-and-combine.png"><img src="/assets/img/reverse-and-combine.png" alt="Reverse and combine" style="max-width:100%;"></a></p>
-<pre><code>اگر هر دو راه به هم چسبیده‌اند و جهتهای متفاوتی دارند، مورد 
+ اگر هر دو راه به هم چسبیده‌اند و جهتهای متفاوتی دارند، مورد 
 "Reverse and Continue" را انتخاب کنید.
-</code></pre>
+ 
 <p>۳- <strong>Reverse Way:</strong> این مورد جهت خط را برعکس می‌کند. در OSM
 همه خطوط دارای جهت هستند که در JOSM به صورت پیکانهایی روی خط نشان داده می‌شود.
 معمولاً جهت خط اهمیتی ندارد، بجز در راههای یکطرفه و
@@ -92,8 +92,8 @@ Combine Way را از منوی Tools انتخاب کنید.</p>
 منتهی میشود. برای رفع این اشکال می‌توان ازین ابزار استفاده کرد تا اشیاء را
 از هم جدا کرد.</p>
 <p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/unglue-way.png"><img src="/assets/img/unglue-way.png" alt="Unglue way" style="max-width:100%;"></a></p>
-<pre><code>&gt; خط و نقطه تا وقتی که آنها را جابجا نکنید، جدا از هم به نظر نمیرسند.
-</code></pre>
+ &gt; خط و نقطه تا وقتی که آنها را جابجا نکنید، جدا از هم به نظر نمیرسند.
+ 
 <h2><a id="user-content-میانبرهای-صفحه-کلید" class="anchor" aria-hidden="true" href="#میانبرهای-صفحه-کلید"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>میانبرهای صفحه کلید</h2>
 <p>به محض شروع به ویرایش می‌فهمید که مدت زمان زیادی صرف کلیک
 بر روی منوها و زیرمنوها می‌کنید. JOSM برای فائق آمدن به این موضوع،
