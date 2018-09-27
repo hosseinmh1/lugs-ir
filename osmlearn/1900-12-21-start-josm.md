@@ -28,9 +28,9 @@ tags:
 ذیل را وارد و Enter را بزنید: <a href="http://josm.openstreetmap.de" rel="nofollow">josm.openstreetmap.de</a>
 همچنین می‌توانید وبسایت JOSM  را با جستجوی کلمه "JOSM" در اینترنت پیدا کنید.
 ظاهر سایت چیزی شبیه به این می‌باشد:</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm-website.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm-website.png" alt="JOSM website" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm-website.png"><img src="/assets/img/josm-website.png" alt="JOSM website" style="max-width:100%;"></a></p>
 <p>اگر سیستم عامل کامپیوترتان ویندوز می‌باشد، روی “Windows Installer” کلیک کنید تا JOSM دانلود شود.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/windows-installer.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/windows-installer.png" alt="Windows installer" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/windows-installer.png"><img src="/assets/img/windows-installer.png" alt="Windows installer" style="max-width:100%;"></a></p>
 <p>اگر سیستم عامل دیگری دارید،
 بر روی لینک مربوط به همان سیستم عامل کلیک کنید. دانلود شروع می‌شود.
 در این فصل ما فرض می‌کنیم که ویندوز دارید،
@@ -55,20 +55,20 @@ tags:
 “Cancel” را بزنید. اگر می‌خواهید که دیگر این
 پیغام را نبینید، قبل از زدن “Cancel” مربع پائین را علامت بزنید.
 وقتی که JOSM شروع می‌شود، ظاهری اینچنینی دارد:</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm-splash-page.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm-splash-page.png" alt="JOSM splash page" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm-splash-page.png"><img src="/assets/img/josm-splash-page.png" alt="JOSM splash page" style="max-width:100%;"></a></p>
 <h2><a id="user-content-تنظیمات-josm" class="anchor" aria-hidden="true" href="#تنظیمات-josm"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>تنظیمات JOSM</h2>
 <p>در JOSM تنظیمات بسیار زیادی برای شخصی‌سازی وجود دارد.
 یکی از آنها که احتمالاً بخواهید تنظیم کنید زبان برنامه است. JOSM
 به زبانهای متعددی ترجمه شده و ممکن است ترجیح دهید
 به زبان دیگری کار کنید.</p>
 <p>برای دستیابی به پنجره تنظیمات منوی Edit -&gt; Preferences را بزنید.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_preferences.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_preferences.png" alt="Preferences window" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_preferences.png"><img src="/assets/img/josm_preferences.png" alt="Preferences window" style="max-width:100%;"></a></p>
 <p>در سمت چپ، روی آیکونی که به شکل سطل و چرتکه رنگ است
 کلیک کنید.
 در بالای پنجره، روی زبانه “Look and Feel” کلیک کنید.
 از لیست پائین افتادنی کنار کلمه "Language"، زبان مورد نظر خود را
 انتخاب کنبد.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_look-and-feel.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_look-and-feel.png" alt="Look and feel" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_look-and-feel.png"><img src="/assets/img/josm_look-and-feel.png" alt="Look and feel" style="max-width:100%;"></a></p>
 <p>OK را بزنید.
 برای ذخیره تنظیمات نیاز به راه‌اندازی مجدد JOSM می‌باشد. روی “File” در گوشه بالای
 سمت چپ کلیک کنید و روی “Restart” نزدیک انتهای منو بزنید.</p>
@@ -80,11 +80,11 @@ OpenStreetMap ذخیره نمی‌کنیم.
 فایل را از اینجا دانلود کنید: <a href="/hotosm/learnosm/blob/gh-pages/files/sample.osm">sample.osm</a>
 حالا این فایل نمونه را در JOSM باز کنید. روی
 کلید “Open” در گوشه بالای سمت چپ کلیک کنید.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_open-file.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_open-file.png" alt="Open file" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_open-file.png"><img src="/assets/img/josm_open-file.png" alt="Open file" style="max-width:100%;"></a></p>
 <p>فایل <strong>sample.osm</strong> را پیدا کنید. احتمالاً در پوشه دانلودهای شما قرار دارد
 مگر اینکه آنرا در جای دیگری ذخیره کرده باشید. آنرا انتخاب کنید و “Open” را بزنید.
 حالا یک نقشه نمونه را که این شکلی به نظر می‌سد می‌بینید:</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_sample-file.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_sample-file.png" alt="Sample file" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_sample-file.png"><img src="/assets/img/josm_sample-file.png" alt="Sample file" style="max-width:100%;"></a></p>
 <h3><a id="user-content-کارهای-اولیه" class="anchor" aria-hidden="true" href="#کارهای-اولیه"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>کارهای اولیه</h3>
 <p>برای جابجا کردن نقشه به چپ و راست و بالا و پائین، کلید ماوس را پائین
 نگه دارید و ماوس را جابجا کنید.
@@ -94,7 +94,7 @@ OpenStreetMap ذخیره نمی‌کنیم.
 نوار مقیاس گوشه بالای سمت چپ پنجره نقشه اینکار را انجام دهید.دکمه نوار لغزان را به چپ
 و راست بکشید در حالیکه کلید چپ ماوس را نگه داشته‌اید و ماوس را به طرف چپ
 و راست حرکت می‌دهید.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_scale-bar.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_scale-bar.png" alt="Scale bar" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_scale-bar.png"><img src="/assets/img/josm_scale-bar.png" alt="Scale bar" style="max-width:100%;"></a></p>
 <p>به نقشه نمونه نگاه کنید. فقط چند نوع شی جزئی در آن وجود دارد.
 یک رودخانه، یک جنگل، چند ساختمان، چندین جاده و
 تعدادی مغازه در آن وجود دارد. برای انتخاب هر شی، با کلید چپ ماوس روی
@@ -157,12 +157,12 @@ OpenStreetMap ذخیره نمی‌کنیم.
 <li>تاکنون شما از ابزار انتخاب استفاده کرده‌اید که به این شکل
 است:</li>
 </ul>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_select-tool.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_select-tool.png" alt="Select tool" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_select-tool.png"><img src="/assets/img/josm_select-tool.png" alt="Select tool" style="max-width:100%;"></a></p>
 <p>قبل از ترسیم، بایستی مطمئن شوید که چیزی انتخاب نشده باشد.
 روی منطقه سیاه نقشه که خالی‌ست کلیک کنید تا مطمئن شوید
 چیزی انتخاب نشده است.
 روی دومین کلید یعنی ابزار کشیدن کلیک کنید.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_draw-tool.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_draw-tool.png" alt="Draw tool" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_draw-tool.png"><img src="/assets/img/josm_draw-tool.png" alt="Draw tool" style="max-width:100%;"></a></p>
 <p>یک محل خالی روی نقشه پیدا کنید و با ماوس دوبار کلیک کنید.
 اینکار یک نقطه را میکشد.
 برای کشیدن یک خط، با کلید ماوس یک کلیک کنید و ماوس را جابجا کنید و
@@ -176,7 +176,7 @@ OpenStreetMap ذخیره نمی‌کنیم.
 نقطه ما مغازه یا مدرسه یا چیز دیگری است و یا اینکه
 شکل ما مزرعه است یا ساختمان یا چیز دیگر.
 روی ابزار انتخاب در ستون کلیدهای طرف چپ کلیک کنید.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_select-tool.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_select-tool.png" alt="Select tool" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_select-tool.png"><img src="/assets/img/josm_select-tool.png" alt="Select tool" style="max-width:100%;"></a></p>
 <p>یکی از اشیایی را که به وسیله ابزار ترسیم کشیده‌اید را انتخاب کنید. از روی
 منوی بالا روی “Presets” (پیش‌فرض) کلیک کنید. ماوس خود را به زیرمنوی کشانده
 و نوع مکانی که مایلید تعریف کنید را انتخاب کنید.
