@@ -40,11 +40,11 @@ JOSM به طور کلی به صورت زیر است:</p>
 رابزنید. اینکارپنجره دانلود را باز می‌کند همچنین جهت سهولت کار
 می‌توانید روی دکمه‌ای که در این شکل نشان داده شده
 کلیک کنید:</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_download-button.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_download-button.png" alt="JOSM Download Button" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_download-button.png"><img src="/assets/img/josm_download-button.png" alt="JOSM Download Button" style="max-width:100%;"></a></p>
 <p>پس از باز شدن پنجره دانلود، نقشه را با کادر صورتی رنگی
 در آن می‌بینید اگرنقشه را نمی‌بینید، روی زبانه‌ای که "Slippy map" نوشته<br>
 کلیک کنید.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_download-dialog.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_download-dialog.png" alt="JOSM Download Dialog" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_download-dialog.png"><img src="/assets/img/josm_download-dialog.png" alt="JOSM Download Dialog" style="max-width:100%;"></a></p>
 <p>کادر صورتی رنگ منطقه‌ای است که می‌خواهید
 جهت ویرایش دانلود کنید. از ماوس جهت بزرگنمایی و حرکت نقشه استفاده کنید و به منطقه‌ای
 که کاملاً آشنا هستید مانند محله یا شهر خود بروید.
@@ -75,14 +75,14 @@ JOSM به طور کلی به صورت زیر است:</p>
 <p>اگر Bing Sat را در منوی Imagery نمی‌بینید بایستی آنرا
 از روی تنظیمات JOSM فعال کنید. به Edit -&gt; Preferences بروید و روی آیکنی که
 “WMS TMS” نوشته کلیک کنید. شاید لازم باشد روی فلش پائین کلیک کنید تا آنرا پیدا کنید.
-<a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_preferences-up-down.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_preferences-up-down.png" alt="JOSM Preferences up down" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_preferences-wms-tms.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_preferences-wms-tms.png" alt="JOSM Preferences WMS TMS" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_preferences-up-down.png"><img src="/assets/img/josm_preferences-up-down.png" alt="JOSM Preferences up down" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_preferences-wms-tms.png"><img src="/assets/img/josm_preferences-wms-tms.png" alt="JOSM Preferences WMS TMS" style="max-width:100%;"></a>
 روی “Bing Sat” کلیک کنید و سپس “Activate” را بزنید.</p>
 </blockquote>
 <p>###گردش در JOSM
 حالا که ما داده‌های OpenStreetMap را دانلود کرده و تصاویر ماهواره‌ای را اضافه کردیم،
 بیایید نگاه مجددی به رابط کاربری JOSM بیاندازیم.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_layout.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_layout.png" alt="JOSM layout" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_layout.png"><img src="/assets/img/josm_layout.png" alt="JOSM layout" style="max-width:100%;"></a></p>
 <p>پنجره اصلی که از قبل با آن آشنا هستید - پنجره نقشه است و<br>
 جایی است که بیشتر کارها در آن اتفاق می‌افتد. اینجا می‌توانید
 داده‌های OpenStreetMap را ببینید و ویرایش کنید.</p>
@@ -114,7 +114,7 @@ JOSM را آماده کردیم تا تصاویر ماهواره‌ای را ب�
 از <strong>ابزار انتخاب</strong>  استفاده کنید. روی مورد کلیک کنید و آنرا با ماوس
 به جایی که باید باشد حرکت دهید. این کار برای اصلاح موقعیت اشیایی که
 درمکان ناصحیح قرار دارند به کار میرود.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_select-tool.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_select-tool.png" alt="JOSM select tool" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_select-tool.png"><img src="/assets/img/josm_select-tool.png" alt="JOSM select tool" style="max-width:100%;"></a></p>
 <p>از <strong>ابزار ترسیم</strong> استفاده کنید تا نقطه، خط یا شکل جدیدی بکشید.
 هرکدام از این اشیا را با استفاده از منوی Presets همانگونه که
 در بخش قبلی دیدید توصیف کنید.</p>
@@ -123,7 +123,7 @@ JOSM را آماده کردیم تا تصاویر ماهواره‌ای را ب�
 منطقه‌ای که دانلود شده به صورت مستطیل به رنگ سیاه یکنواخت مشخص می‌باشد،<br>
 در حالیکه مناطق دانلود نشده خطوط هاشور خورده کج دارند.</p>
 </blockquote>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_area-downloaded.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_area-downloaded.png" alt="JOSM area downloaded" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_area-downloaded.png"><img src="/assets/img/josm_area-downloaded.png" alt="JOSM area downloaded" style="max-width:100%;"></a></p>
 <h2><a id="user-content-تغییرات-را-ذخیره-کنید" class="anchor" aria-hidden="true" href="#تغییرات-را-ذخیره-کنید"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>تغییرات را ذخیره کنید</h2>
 <p>سومین و آخرین گام برای تکمیل ویرایش‌های ما، آپلود تغییرات داده شده
 به پایگاه داده OpenStreetMap می‌باشد. برای ذخیره تغییرات بایستی
@@ -131,19 +131,19 @@ JOSM را آماده کردیم تا تصاویر ماهواره‌ای را ب�
 <p>از منوی بالا روی “File” و سپس روی “Upload Data” کلیک کنید. اینکار
 پنجره آپلود را باز می‌کند.  برای دسترسی
 راحتتر به این پنجره می‌توانید روی دکمه آپلود که به شکل زیر است، کلیک کنید:</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_upload-button.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_upload-button.png" alt="JOSM Upload Button" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_upload-button.png"><img src="/assets/img/josm_upload-button.png" alt="JOSM Upload Button" style="max-width:100%;"></a></p>
 <p>درپنجره‌ای که باز  میشود لیست کلیه اشیایی که
 اضافه کرده‌اید یا تغییر داده‌اید و یا حذف کرده‌اید نمایش داده می‌شوند. در کادر
 پائین صفحه از شما خواسته می‌شود تا توضیحی درباره تغییراتی که
 انجام داده‌اید بنویسید. درباره تغییراتتان شرحی بنویسید.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_upload-dialog.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_upload-dialog.png" alt="JOSM Upload Dialog" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_upload-dialog.png"><img src="/assets/img/josm_upload-dialog.png" alt="JOSM Upload Dialog" style="max-width:100%;"></a></p>
 <p>روی “Upload Changes” کلیک کنید.</p>
 <p>اگراولین باری است که تغییرات را در OpenStreetMap ذخیره می‌کنید، از شما خواسته می‌شود که
 نام کاربری و رمز OpenStreetMapتان را وارد کنید.
 آنها را در پنجره‌ای که ظاهر می‌شود وارد کنید. اگر مربع
 این پنجره را تیک بزنید، نام کاربری و رمز شما ذخیره می‌شود و
 نیازی به وارد کردن مجدد آنها در دفعات بعدی نمی‌باشد. روی “Authenticate” کلیک کنید.</p>
-<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_authenticate.png"><img src="/hotosm/learnosm/raw/gh-pages/images/josm/josm_authenticate.png" alt="JOSM Authenticate" style="max-width:100%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_authenticate.png"><img src="/assets/img/josm_authenticate.png" alt="JOSM Authenticate" style="max-width:100%;"></a></p>
 <p>لازم است که چند ثانیه‌ای برای آپلود شدن تغییرات صبر کنید،
 و سپس کار تمام است! شما نقشه  OpenStreetMap را ویرایش کردید.</p>
 <blockquote>
