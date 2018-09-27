@@ -54,14 +54,12 @@ osm-links:
     url: /osm-data/
   - title: کپی - چسباندن
     url: /copy-past/
-  - title: JOSM- ویرایش با جزئیات
-    url: /josm/
   - title: JOSM- شروع کار با
     url: /start-josm/
-  - title: فرآیند ویرایش در JOSM
-    url: /more-josm/
   - title: JOSM- ابزارهای ویرایش با JOSM
     url: /josm-tools/
+  - title: فرآیند ویرایش در JOSM
+    url: /more-josm/
   - title: نقشه‌کشی انسان‌دوستانه
     url: /humanitarian/
   - title: اصلاح اشکالات مربوط به مسیریابی نقشه osm
