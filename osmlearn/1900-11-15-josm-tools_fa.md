@@ -10,10 +10,7 @@ tags:
 ---
 
 <h1>ابزارهای ویرایش با JOSM</h1>
-<blockquote>
-<p>این راهنما را میتوان به صورت <a href="/hotosm/learnosm/blob/gh-pages/files/josm_josm-tools_fa.odt">josm_josm-tools_fa.odt</a> و یا <a href="/hotosm/learnosm/blob/gh-pages/files/josm_josm-tools_fa.pdf">josm_josm-tools_fa.pdf</a> دانلود کرد.<br>
-تاریخ بازبینی ۱۳۹۴/۰۴/۲۳</p>
-</blockquote>
+
 <p>در <a href="/josm/start-josm">راهنمای شروع به کار با JOSM</a> ما اصول پایه رسم با
 JOSM را یاد دادیم اما ابزارها و تکنیکهای بسیار زیادی وجود دارد که که هنوز نگفته‌ایم.</p>
 <p>در اینجا نگاهی به برخی از ابزارها و تکنیکهای اولیه موجود جهت

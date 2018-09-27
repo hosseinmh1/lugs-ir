@@ -11,10 +11,7 @@ tags:
 
 
 <h1>فرآیند ویرایش در JOSM</h1>
-<blockquote>
-<p>این راهنما را می‌توان به صورت <a href="/hotosm/learnosm/blob/gh-pages/files/josm_more-about-josm_fa.odt">josm_more-about-josm_fa.odt</a> و یا <a href="/hotosm/learnosm/blob/gh-pages/files/josm_more-about-josm_fa.pdf">josm_more-about-josm_fa.pdf</a> دانلود کرد.<br>
-تاریخ بازبینی ۱۳۹۴/۰۴/۳۱</p>
-</blockquote>
+
 <p>در بخش قبل شما
 JOSM را نصب کردید و شروع به کشیدن اولین نقطه‌ها، خطوط و شکلها کردید.
 تعاریف پیش‌فرض را به این اشیاء اضافه کردید تا اطلاعاتی درباره ماهیت آنها به
