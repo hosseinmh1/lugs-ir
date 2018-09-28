@@ -80,3 +80,5 @@ osm-links:
     url: /osm-tags/
   - title: آموزش تغییر لایه ها و داده های نقشه در ویرایشگر id
     url: /osm-layers/
+  - title: کار با فایل gpx در josm
+    url: /josm-gpx
