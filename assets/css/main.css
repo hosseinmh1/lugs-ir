@@ -24,6 +24,7 @@ html{
 body{
     margin:0;
     font-family:sahel;
+    direction: rtl;
 }
 article,aside,footer,header,nav,section{
     display:block
