@@ -307,7 +307,6 @@ p{
 }
 body.has-push-menu,body.has-push-menu aside,body.has-push-menu .progress-bar{
     -webkit-transition:all .3s ease;
-    -webkit-transition:all .3s ease;
     transition:all .3s ease
 }
 body.has-push-menu{
