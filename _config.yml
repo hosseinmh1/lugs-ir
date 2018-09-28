@@ -82,3 +82,5 @@ osm-links:
     url: /osm-layers/
   - title: کار با فایل gpx در josm
     url: /josm-gpx
+  - title: آپلود gpx با josm
+    url: /josm-gpx-upload/
