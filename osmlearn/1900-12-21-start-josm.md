@@ -77,7 +77,7 @@ tags:
 روشهای پایه ترسیم نقشه با JOSM استفاده می‌کنیم را باز کنیم. توجه داشته باشید که این نقشه وافعی نیست،
 نقشه واقعی مکانی روی زمین نیست، به همین دلیل آنرا در
 OpenStreetMap ذخیره نمی‌کنیم.
-فایل را از اینجا دانلود کنید: <a href="/hotosm/learnosm/blob/gh-pages/files/sample.osm">sample.osm</a>
+فایل را از اینجا دانلود کنید: <a href="/assets/docs/sample.osm">sample.osm</a>
 حالا این فایل نمونه را در JOSM باز کنید. روی
 کلید “Open” در گوشه بالای سمت چپ کلیک کنید.</p>
 <p><a target="_blank" rel="noopener noreferrer" href="/hotosm/learnosm/blob/gh-pages/images/josm/josm_open-file.png"><img src="/assets/img/josm_open-file.png" alt="Open file" style="max-width:100%;"></a></p>
