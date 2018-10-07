@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /multi-polygon/
-title: "ریلیشن پُر کاربرد مولتی پلیگون"
-description: ریلیشن پُر کاربرد مولتی پلیگون 
+title: "ریلیشن پُر کاربرد multipolygon"
+description: ریلیشن پُر کاربرد multipolygon 
 category: 'learnosm'
 tags:
 - osm
