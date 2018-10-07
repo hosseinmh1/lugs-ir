@@ -84,3 +84,5 @@ osm-links:
     url: /josm-gpx
   - title: آپلود gpx با josm
     url: /josm-gpx-upload/
+  - title: ریلیشن multipolygon
+    url: /multi-polygon/
