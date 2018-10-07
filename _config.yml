@@ -88,3 +88,5 @@ osm-links:
     url: /multi-polygon/
   - title: میخواهم کسی تغییرات مرا بازبینی کند
     url: /review/
+  - title: لینک‌ها
+    url: /links/
