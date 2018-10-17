@@ -54,6 +54,8 @@ osm-links:
     url: /osm-data/
   - title: کپی - چسباندن
     url: /copy-past/
+  - title: JOSM- فیلم معرفی
+    url: /josm-introduction/
   - title: JOSM- شروع کار با
     url: /start-josm/
   - title: JOSM- ابزارهای ویرایش با JOSM
