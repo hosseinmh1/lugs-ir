@@ -92,3 +92,5 @@ osm-links:
     url: /review/
   - title: لینک‌ها
     url: /links/
+  - title: نقش subarea در ریلیشن boundary
+    url: /subarea/
