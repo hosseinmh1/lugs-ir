@@ -38,6 +38,19 @@
                 <p class="text-center"><a href="{{ page.site }}"> <i class="fa fa-link"></i> وبسایت</a></p>
                 
                 {% endif %}
+                
+                {% if page.forum %}
+                <p class="text-center"><a href="{{ page.forum }}"> <i class="fas fa-comments"></i> انجمن</a></p>
+                
+                {% endif %}
+
+
+
+                {% if page.wiki %}
+                <p class="text-center"><a href="{{ page.wiki }}"> <i class="fa fa-wikipedia-w"></i> ویکی</a></p>
+                
+                {% endif %}
+
 
                 {% if page.evand %}
                 <p class="text-center"><a href="{{ page.evand }}"><i class="fa fa-calendar-alt"> </i> رویداد‌های لاگ  </a></p>
