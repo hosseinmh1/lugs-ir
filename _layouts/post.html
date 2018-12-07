@@ -96,15 +96,8 @@
                 {% if page.location %}
                 <p class="text-center" style="color: red">محل برگزاری جلسات</p>
 
-                        <iframe width="400" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ page.location }}" style="border: 1px solid black"></iframe>
+                    <iframe width="400" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="{{ page.location }}" style="border: 1px solid black"></iframe>
 
-                {% endif %}
-                {% if page.rss %}
-                <p class="text-center" style="color: red">آخرین مطالب لاگ</p>
-
-                    <script language="javascript" src="http://webtools.samentheme.ir/st/rss/rss.php?url={{ page.rss }}&feeds=20&direction=rtl&bg=FFFFFF&border=FFFFFF&link=0368FF&width=400px"></script>
-             
-                    
                 {% endif %}
             </article>
 

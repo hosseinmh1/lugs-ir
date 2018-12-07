@@ -7,7 +7,6 @@ active: "yes"
 github_username: "qazvinlug"
 telegram: "qazvinlug"
 site: "http://www.qazvinlug.ir/"
-rss: "http://qazvinlug.ir/feed"
 tags:
 - لاگ
 - لینوکس
