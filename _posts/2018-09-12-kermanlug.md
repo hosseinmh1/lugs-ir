@@ -11,7 +11,7 @@ location: "http://www.openstreetmap.org/export/embed.html?bbox=57.04995542764664
 tags:
 - لاگ
 - لینوکس
-image: '/assets/img/linux-logo.png'
+image: '/assets/img/klug.png'
 twitter_text: کرمان‌لاگ گروهی غیرانتفاعی است که هدفش ترویج استفاده از نرم‌افزارهای آزاد می‌باشد 
 introduction: کرمان‌لاگ گروهی غیرانتفاعی است که هدفش ترویج استفاده از نرم‌افزارهای آزاد می‌باشد 
 ---
