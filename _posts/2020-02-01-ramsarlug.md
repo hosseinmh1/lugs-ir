@@ -7,7 +7,7 @@ active: "yes"
 evand: "#"
 github_username: "#"
 telegram: "ramsarlug"
-site: "http://www.ramsarlug.org/"
+site: "http://www.ramsarlug.ir/"
 tags:
 - لاگ
 - لینوکس
